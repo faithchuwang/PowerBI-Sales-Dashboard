@@ -1,5 +1,16 @@
 # 🛒 Sales and Profitability Analysis - Power BI
 
+## 📌 Table of Contents  
+1. [Project Overview](#project-overview)  
+2. [Data Sources](#data-sources)  
+3. [Tools Used](#tools-used)  
+4. [Data Cleaning & Preparation](#data-cleaning--preparation)  
+5. [Exploratory Data Analysis](#exploratory-data-analysis)  
+6. [Data Analysis](#data-analysis)  
+7. [Results & Findings](#results--findings)  
+8. [Recommendations](#recommendations)  
+9. [References](#references)
+
 ## 📌 Project Overview  
 This project focuses on analyzing sales and profitability data to uncover key revenue drivers, optimize sales strategies, and enhance business performance. The objective is to evaluate sales trends, customer segments, regional performance, and discount impacts to provide actionable insights.  
 
@@ -118,7 +129,3 @@ Several **DAX measures** were created to calculate key metrics:
 1. **Dataset Source**: [Insert Dataset Source]  
 2. **Power BI Documentation**: [https://docs.microsoft.com/en-us/power-bi/](https://docs.microsoft.com/en-us/power-bi/)  
 3. **DAX Function Guide**: [https://dax.guide/](https://dax.guide/)  
-
----
-
-## 📂 Repository Structure  
